@@ -1,15 +1,11 @@
 
 <html>
     <head>
-        
         <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
-        <link href="bootstrap-3.3.6-dist/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
-        <script src="bootstrap-3.3.6-dist/js/bootstrap.min.js" type="text/javascript"></script>
+        <link href="bootstrap-3.3.7-dist/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
         <link href="font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
-       
-       
-        <link href="css/1.css" rel="stylesheet" type="text/css" />
-        
+        <link href="font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+        <link href="jquery/jquery.min.js" rel="stylesheet" type="text/css" />
     </head>
 
     <body>
